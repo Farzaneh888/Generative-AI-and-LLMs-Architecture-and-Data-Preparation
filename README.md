@@ -1,0 +1,1 @@
+In the Jupyter file, I used two models: "facebook/blenderbot-400M-distill" and "google/flan-t5-base." The BlenderBot model is designed for chatbot applications and conversation-based responses, while the FLAN-T5 model is a general-purpose language model used for various NLP tasks like translation, summarization, and question answering.
